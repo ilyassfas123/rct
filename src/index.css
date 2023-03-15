@@ -1,0 +1,67 @@
+.DVP{
+height: 90px;
+  background-color: rgb(13, 7, 7);
+  display: flex;
+  justify-content: space-between;
+}
+.bt1{
+  margin-top: 20px;
+  background-color:rgb(13, 7, 7);
+  color: darkorange;
+  font-size: 15px;
+  
+}
+.bt2{
+  margin-left: 30px;
+  background-color:rgb(13, 7, 7) ;
+  color: white;
+  font-size: 15px;
+}
+.inp1{
+  margin-left: 500px;
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+}
+.bt3{
+  height: 40px;
+  width: 40px;
+  border-radius: 5PX;
+  margin-left: -40px;
+  border: none;
+}
+.bt4{
+  margin-left: 250px;
+  background-color:  darkorange;
+  width: 100px;
+  height: 40px;
+  font-size: 15px;
+}
+.DIVA{
+  display: grid;
+  grid-template-columns: repeat(4,350px);
+  justify-content: center;
+  
+  background-color: aliceblue;
+
+}
+.DIVB{
+  width: 300px;
+    height: 420px;
+    border: none;
+    background-color: white;
+    margin: 20px;
+    border-radius: 5px;
+}
+.IG{
+  width: 300px;
+  height: 200px;
+  border-radius: 5px;
+}
+.bf{
+  width: 100px;
+  height: 40px;
+  border: none;
+  background-color: darkorange;
+  font-size: 15px;
+}
